@@ -4,9 +4,9 @@ A stylish and functional ToDo list web application to help you stay productive a
 
 ## 📸 Screenshot
 
-![Screenshot - Light Mode](./Images/Screenshot%202025-05-21%20114859.png)
-![Screenshot - Dark Mode](./Images/Screenshot%202025-05-21%20114759.png)
-![todolist-APP](./Images/Screenshot%202025-05-21%20114839.png)
+![Screenshot - Light Mode](./Images/Screenshot%2025-05-21%114859.png)
+![Screenshot - Dark Mode](./Images/Screenshot%2025-05-21%114839.png)
+![todolist-APP](./Images/Screenshot%2025-05-21%114759.png)
 
 ## 🚀 Live Demo
 
