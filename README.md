@@ -52,7 +52,9 @@ git clone https://github.com/ahmedmostafa-io/Todo-App
 cd daily-task-todo
 npm install
 npm start
-## Folder Structure
+
+````
+### Folder Structure
 
 ```plaintext
 project-root/
